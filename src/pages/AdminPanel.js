@@ -13,13 +13,10 @@ const AdminPanel = () => {
 
   return (
     <div>
-      {uid !== uid ? (
-        history.push("/home")
-      ) : (
-        <div>
-          <Admin></Admin>
-        </div>
-      )}
+      <div>
+        <Admin></Admin>
+      </div>
+
       <div></div>
     </div>
   );

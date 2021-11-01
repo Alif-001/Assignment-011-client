@@ -44,11 +44,9 @@ const Header = () => {
                 </>
               ) : (
                 <>
-                  {uid === uid && (
-                    <Nav.Link as={HashLink} to="/admin" className="text-white">
-                      Manage All Booking
-                    </Nav.Link>
-                  )}
+                  <Nav.Link as={HashLink} to="/admin" className="text-white">
+                    Manage All Booking
+                  </Nav.Link>
                   <Nav.Link
                     as={HashLink}
                     to="/dashboard"
