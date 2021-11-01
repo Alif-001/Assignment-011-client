@@ -19,7 +19,7 @@ const Home = () => {
           >
             <div className="text-center my-5 py-5">
               <div>
-                <h1 className="text-white">Tour with Tour Forest</h1>
+                <h1 className="text-white">Tour with Travel Forest</h1>
               </div>
 
               <div>
