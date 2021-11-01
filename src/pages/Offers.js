@@ -4,10 +4,10 @@ import SingleOffer from "./singleOffers";
 const Offers = () => {
   const [offers, setOffers] = useState([]);
   useEffect(() => {
-    fetch("https://morning-everglades-39414.herokuapp.com/courses/add")
+    fetch("https://morning-everglades-39414.herokuapp.com/orders")
       .then((res) => res.json())
       .then((data) => setOffers(data));
-  }, []);
+  }, [offers]);
 
   return (
     <div className="offer-section pt-5">
