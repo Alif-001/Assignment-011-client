@@ -1,0 +1,65 @@
+[
+  {
+      "id": 1,
+      "title": "Maldives",
+      "details": "Maldives, officially the Republic of Maldives, is an archipelagic state in the Indian subcontinent of Asia, situated in the Indian Ocean. It lies southwest of Sri Lanka and India, about 750 kilometres from the Asian continent's mainland.",
+      "img": "https://images.pexels.com/photos/1483053/pexels-photo-1483053.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price":1232
+  },
+  {
+      "id": 2,
+      "title": "Lyon",
+      "details": "Lyon, the capital city in France’s Auvergne-Rhône-Alpes region, sits at the junction of the Rhône and Saône rivers. Its center reflects 2,000 years of history from the Roman Amphithéâtre des Trois Gaules, medieval and Renaissance architecture in Vieux (Old) Lyon, to the modern Confluence district on Presqu'île peninsula. Traboules, covered passageways between buildings, connect Vieux Lyon and La Croix-Rousse hill.",
+      "img": "https://images.pexels.com/photos/5773238/pexels-photo-5773238.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price":1432
+  },
+  {
+      "id": 3,
+      "title": "Italy",
+      "details": "Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as landmark art and ancient ruins. Other major cities include Florence, with Renaissance masterpieces such as Michelangelo’s  and Brunelleschi's Duomo; Venice, the city of canals; and Milan, Italy’s fashion capital.",
+      "img": "https://images.pexels.com/photos/4172650/pexels-photo-4172650.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price":2323
+  },
+  {
+      "id": 4,
+      "title": "Germany",
+      "details": "Germany is a Western European country with a landscape of forests, rivers, mountain ranges and North Sea beaches. It has over 2 millennia of history. Berlin, its capital, is home to art and nightlife scenes, the Brandenburg Gate and many sites relating to WWII. Munich is known for its Oktoberfest and beer halls, including the 16th-century Hofbräuhaus. Frankfurt, with its skyscrapers, houses the European Central Bank.",
+      "img": "https://images.pexels.com/photos/1119972/pexels-photo-1119972.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price":999
+  },
+  {
+      "id": 5,
+      "title": "Croatia",
+      "details": "Statistically, Croatia is one of the safest countries in the world. The stats don't lie: Croatia is the 19th-safest country in the world! That means that Croatia is statistically safer than both the UK and the US. The only safety issues you're likely to encounter will involve pickpockets and scammers",
+      "img": "https://images.pexels.com/photos/210536/pexels-photo-210536.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price":865
+  },
+  {
+      "id": 6,
+      "title": "Vietnam",
+      "details": "Vietnam is a Southeast Asian country known for its beaches, rivers, Buddhist pagodas and bustling cities. Hanoi, the capital, pays homage to the nation’s iconic Communist-era leader, Ho Chi Minh, via a huge marble mausoleum. Ho Chi Minh City (formerly Saigon) has French colonial landmarks, plus Vietnamese War history museums and the Củ Chi tunnels, used by Viet Cong soldiers.",
+      "img": "https://images.pexels.com/photos/4112383/pexels-photo-4112383.png?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price":1254
+  },
+  {
+      "id": 7,
+      "title": "Paris",
+      "details": "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its 19th-century cityscape is crisscrossed by wide boulevards and the River Seine. Beyond such landmarks as the Eiffel Tower and the 12th-century, Gothic Notre-Dame cathedral, the city is known for its cafe culture and designer boutiques along the Rue du Faubourg Saint-Honoré.",
+      "img": "https://images.pexels.com/photos/2956955/pexels-photo-2956955.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price":2245
+  },
+  {
+      "id": 8,
+      "title": "Europe",
+      "details": "Europe, second smallest of the world’s continents, composed of the westward-projecting peninsulas of Eurasia (the great landmass that it shares with Asia) and occupying nearly one-fifteenth of the world’s total land area. It is bordered on the north by the Arctic Ocean, on the west by the Atlantic Ocean, and on the south (west to east) by the Mediterranean Sea, the Black Sea, the Kuma-Manych Depression, and the Caspian Sea. The continent’s eastern boundary (north to south) runs along the Ural Mountains and then roughly southwest along the Emba (Zhem) River, terminating at the northern Caspian coast.",
+      "img": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price":3211
+  },
+  {
+      "id": 9,
+      "title": "Monaco",
+      "details": "Monaco, officially the Principality of Monaco, is a sovereign city-state and microstate on the French Riviera few kilometres west of the Italian region of Liguria, in Western Europe. It is bordered by France to the north, east and west, and the Mediterranean Sea to the south.",
+      "img": "https://images.pexels.com/photos/3958980/pexels-photo-3958980.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price":1322
+  }
+]
