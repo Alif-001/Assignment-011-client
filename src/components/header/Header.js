@@ -54,6 +54,13 @@ const Header = () => {
                   >
                     My Booking
                   </Nav.Link>
+                  <Nav.Link
+                    as={HashLink}
+                    to="/addnewoffers"
+                    className="text-white"
+                  >
+                    Add new offers
+                  </Nav.Link>
                   <Nav.Link>
                     {" "}
                     <img

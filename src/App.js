@@ -1,4 +1,5 @@
 import "bootstrap/dist/css/bootstrap.min.css";
+import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./App.css";
 import Admin from "./components/Admin/Admin";
@@ -6,6 +7,7 @@ import Footer from "./components/footer/Footer.js";
 import Header from "./components/header/Header.js";
 import AuthProvider from "./contexts/AuthProvider.js";
 import About from "./pages/About.js";
+import AddNewOffers from "./pages/AddNewOffers";
 import AdminPanel from "./pages/AdminPanel.js";
 import Contact from "./pages/Contact.js";
 import Courses from "./pages/Courses.js";
@@ -62,6 +64,10 @@ function App() {
             <Route path="/courses/:id">
               <Details></Details>
             </Route>
+
+            <PrivateRoute path="/addnewoffers">
+              <AddNewOffers></AddNewOffers>
+            </PrivateRoute>
 
             <Route path="*">
               <PageNotFound></PageNotFound>

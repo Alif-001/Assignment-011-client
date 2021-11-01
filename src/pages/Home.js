@@ -6,6 +6,7 @@ import Newsletter from "../components/Newsletter/Newsletter.js";
 import Testmonial from "../components/Testmonial/Testmonial.js";
 import useAuth from "../hooks/useAuth.js";
 import About from "./About.js";
+import Offers from "./Offers.js";
 
 const Home = () => {
   const { courses } = useAuth();
@@ -55,6 +56,9 @@ const Home = () => {
               ))}
             </Row>
           </div>{" "}
+          <div className="">
+            <Offers></Offers>
+          </div>
           <div className="mt-5">
             <About></About>
           </div>
