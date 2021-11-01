@@ -13,7 +13,7 @@ const Details = () => {
   const { uid } = user;
 
   useEffect(() => {
-    fetch(`http://localhost:5000/courses/${id}`)
+    fetch(`https://morning-everglades-39414.herokuapp.com/courses/${id}`)
       .then((res) => res.json())
       .then((data) => {
         if (data?._id) {

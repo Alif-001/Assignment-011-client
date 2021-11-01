@@ -5,14 +5,14 @@ const Admin = () => {
   console.log(orders);
 
   useEffect(() => {
-    fetch("http://localhost:5000/orders")
+    fetch("https://morning-everglades-39414.herokuapp.com/orders")
       .then((res) => res.json())
       .then((data) => setOrders(data));
   }, [orders]);
   function cancel(id) {
     const confirmation = window.confirm("Are you sure?");
     if (confirmation) {
-      fetch(`http://localhost:5000/delete/${id}`, {
+      fetch(`https://morning-everglades-39414.herokuapp.com/delete/${id}`, {
         method: "delete",
       })
         .then((res) => res.json())
