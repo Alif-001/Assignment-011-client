@@ -12,6 +12,9 @@ const Offers = () => {
   return (
     <div className="offer-section pt-5">
       <div className="container">
+        {" "}
+        <h2 className="my-color mt-5">User added packages</h2>
+        <hr className="text-danger mb-3" />
         {!offers.length ? (
           <div className="text-center"></div>
         ) : (

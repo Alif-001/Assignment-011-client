@@ -15,9 +15,12 @@ const SingleOffer = ({ offer }) => {
           <h4 className="card-title">{name}</h4>
           <h5 className="mt-3 border-bottom pb-2">{title}</h5>
           <p className="text-muted">{details}</p>
+          <h3 className="fw-light">USD : {price}</h3>
           <div className="d-flex justify-content-between align-items-center my-2">
-            <h3 className="fw-light">${price}</h3>
-            <button onClick={() => seeDetails(_id)} className="my-btn btn-lg">
+            <button
+              onClick={() => seeDetails(_id)}
+              className=" btn-lg btn-primary w-100"
+            >
               Book Now
             </button>
           </div>
