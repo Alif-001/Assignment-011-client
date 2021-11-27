@@ -2,7 +2,14 @@
 
 ## The Best Travel Agency Company.
 
-- Founded in 1996 in Amsterdam, Travel Forest has grown from a small Dutch start-up to one of the world’s leading digital travel companies. Part of Travel Forest Holdings Inc. Travel Forest mission is to make it easier for everyone to experience the world.
+* Full-stack travel agency website.
+
+* Users can book tours in different packages.
+
+* Desktop and mobile responsive MERN stack
+web site.
+
+- Travel Forest has grown from a small Dutch start-up to one of the world’s leading digital travel companies. Part of Travel Forest Holdings Inc. Travel Forest mission is to make it easier for everyone to experience the world.
 
 - By investing in technology that takes the friction out of travel, Travel Forest seamlessly connects millions of travelers to memorable experiences, a variety of transportation options, and incredible places to stay – from homes to hotels, and much more. As one of the world’s largest travel marketplaces for both established brands and entrepreneurs of all sizes, Travel Forest enables properties around the world to reach a global audience and grow their businesses.
 
